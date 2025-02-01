@@ -1,0 +1,19 @@
+   .pkp_site_name .is_img img {
+        max-height:none;
+ }
+
+
+.pkp_site_name {
+        position: relative;
+        width: 100%;
+        left: auto;
+        right: auto;
+        padding: 0;
+        white-space: pre-wrap;
+        font-size: 1em;
+        background: transparent;
+        overflow: visible;
+    }
+
+     
+
